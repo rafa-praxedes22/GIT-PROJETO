@@ -1,3 +1,4 @@
 Primeira linha
 Outra linha
+Linha de conflito
 Segunda linha
